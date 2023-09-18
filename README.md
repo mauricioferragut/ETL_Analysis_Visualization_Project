@@ -1,2 +1,2 @@
 # ETL_Analysis_Visualization_Project
-This project displays the Extract, Transform, Load (ETL) process, and subsequent data analysis.
+This project displays the Extract, Transform, Load (ETL) process, and subsequent data analysis. The project uses the Monthly Retail Trade Survey (MRTS) dataset, a government created dataset which describes retail economic activity in the US. Once the data went through ETL, queries were made in SQL using Python code to analyze trends and visualize the results. Analyses performed include Trends, Percent Change, and Rolling Time Windows.
